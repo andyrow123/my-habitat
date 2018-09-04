@@ -1,0 +1,20 @@
+= Cheatsheets
+
+[[Room]]
+== Room
+
+++++
+ Online room data object.
+++++
+'''
+
+[cols=">25%,^25%,50%"]
+[frame="topbot"]
+|===
+^|Name | Type ^| Description
+|[[creatorId]]`creatorId`|`String`|-
+|[[description]]`description`|`String`|-
+|[[name]]`name`|`String`|-
+|[[openTime]]`openTime`|`Number (Long)`|-
+|===
+

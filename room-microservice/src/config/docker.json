@@ -1,0 +1,6 @@
+{
+  "api.name": "room",
+  "room.http.address": "room-microservice",
+  "room.http.port": 8085,
+  "host": "mongo"
+}

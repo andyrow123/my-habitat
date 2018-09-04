@@ -1,0 +1,4 @@
+{
+  "api.name": "room",
+  "room.http.port": 8085
+}

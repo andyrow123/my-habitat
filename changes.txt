@@ -1,0 +1,3 @@
+Product = Device
+Seller = Creator
+Store/Shop = Room

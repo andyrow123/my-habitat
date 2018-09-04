@@ -13,14 +13,14 @@
         <!-- infrastructure components -->
         <!--<module>microservice-blueprint-common</module>-->
         <!--<module>database-middleware</module>-->
-        <!--<module>api-gateway</module>-->
+        <module>api-gateway</module>
 
         <!-- service components -->
         <module>microservice-habitat-common</module>
-        <!--<module>account-microservice</module>-->
-        <!--<module>product-microservice</module>-->
+        <module>account-microservice</module>
+        <module>device-microservice</module>
         <!--<module>inventory-microservice</module>-->
-        <!--<module>store-microservice</module>-->
+        <module>room-microservice</module>
         <!--<module>shopping-cart-microservice</module>-->
         <!--<module>payment-microservice</module>-->
         <!--<module>order-microservice</module>-->

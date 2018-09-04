@@ -1,0 +1,40 @@
+= Cheatsheets
+
+[[Device]]
+== Device
+
+++++
+ Device data object.
+++++
+'''
+
+[cols=">25%,^25%,50%"]
+[frame="topbot"]
+|===
+^|Name | Type ^| Description
+|[[creatorId]]`creatorId`|`String`|-
+|[[deviceId]]`deviceId`|`String`|-
+|[[illustration]]`illustration`|`String`|-
+|[[name]]`name`|`String`|-
+|[[price]]`price`|`Number (double)`|-
+|[[type]]`type`|`String`|-
+|===
+
+[[DeviceTuple]]
+== DeviceTuple
+
+++++
+ A device tuple represents the amount of a certain device in a shopping.
+++++
+'''
+
+[cols=">25%,^25%,50%"]
+[frame="topbot"]
+|===
+^|Name | Type ^| Description
+|[[amount]]`amount`|`Number (Integer)`|-
+|[[creatorId]]`creatorId`|`String`|-
+|[[deviceId]]`deviceId`|`String`|-
+|[[price]]`price`|`Number (Double)`|-
+|===
+
